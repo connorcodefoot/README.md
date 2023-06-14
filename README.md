@@ -7,6 +7,8 @@ Hello World 👋
 | [MenuMate](https://github.com/connorcodefoot/Menu-Mate) | Menu Mate is an all in one POS for restaurants. Managers can create and update menus and manage orders, all while customers can submit and pay for orders from their mobile device | Complete | React, Node, Express, Postgres |
 | [Scheduler](https://github.com/connorcodefoot/scheduler) | Interview Scheduler is a single page app designed using React. It enables a user to schedule appointments with a desired interviewer | Complete | React, Express, Postgres, Storybook, Jest, Cypress |
 | [ML Yelp Reviewer](https://github.com/connorcodefoot/ML-Yelp-Reviewer) | This app anticipates the overall yelp review when given details about a company (Command-line app) | Complete | Python, Pandas, Scikit-learn |
+| [Jungle](https://github.com/connorcodefoot/jungle) | A mini e-commerce application | Complete | Rails, Postgres, Cypress |
+
  
 
 
